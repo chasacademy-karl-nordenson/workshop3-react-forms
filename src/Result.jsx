@@ -15,7 +15,6 @@ const Result = () => {
       <p>Place: {formData.place}</p>
       <p>Phone: {formData.phone}</p>
       <p>Accept Privacy Policy: {formData.acceptPrivacyPolicy ? 'Yes' : 'No'}</p>
-      {/* Display other form data */}
     </div>
   );
 };
